@@ -6,7 +6,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 ## Pre-requisitos 📋
 Que cosas necesitas para instalar el software y como instalarlas
 ```
-
+Tener instalado el entorno Node
+Tener instalado Redis
 ```
 ## Instalación 🔧
 A continuación, se presenta una serie de pasos para ejecutar correctamente el proyecto funcinal
