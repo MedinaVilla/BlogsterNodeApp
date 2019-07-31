@@ -1,2 +1,4 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# BlogsterNodeApp
+A simple application to manage a blog funcionality witch advance concepts of nodeJS.
+
+
