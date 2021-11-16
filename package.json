@@ -14,7 +14,7 @@
   "author": "Jesús Medina",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.491.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.0",
     "body-parser": "^1.17.2",
     "concurrently": "^3.5.0",
